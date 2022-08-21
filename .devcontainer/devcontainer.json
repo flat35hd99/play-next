@@ -31,9 +31,5 @@
 	"remoteUser": "node",
 	"features": {
 		"github-cli": "latest"
-	},
-
-	"containerEnv": {
-		"CHOKIDAR_USEPOLLING": "true"
 	}
 }
